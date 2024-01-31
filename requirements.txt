@@ -1,0 +1,5 @@
+PIL
+PyPDF2
+reportlab.lib.pagesizes
+reportlab.pdfgen
+tkinter
