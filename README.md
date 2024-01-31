@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ## Execution
 
 Unzip `Img2Pdf.rar`, images go into the `images` folder 
-MAKE SURE you order your images in alphabetic order by naming them `a.png` or `b.png` etc
-then double-click `Img2Pdf.exe` the merged pdf will appear in the `output_PDF` folder
+MAKE SURE you order your images in alphabetic order by naming them `a.png` or `b.png` etc...
+
+Then double-click `Img2Pdf.exe` the merged pdf will appear in the `output_PDF` folder
 
